@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "948071636686",
+    "project_id": "laguviralakustik",
+    "storage_bucket": "laguviralakustik.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:948071636686:android:5dd1e83dbb8df31889fa9f",
+        "android_client_info": {
+          "package_name": "com.sbmedia.laguakustikterenaksaatsantuy"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "948071636686-4uvfiplga69ck4uespaphd6nndkj57rg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBbhr1x6ztEcgncn0APEh7HmtYzliwf92I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "948071636686-4uvfiplga69ck4uespaphd6nndkj57rg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
