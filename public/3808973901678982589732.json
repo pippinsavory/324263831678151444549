@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "886932085541",
+    "firebase_url": "https://sholawatmerdu-2f210.firebaseio.com",
+    "project_id": "sholawatmerdu-2f210",
+    "storage_bucket": "sholawatmerdu-2f210.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:886932085541:android:60783519c2c019db7bd8cc",
+        "android_client_info": {
+          "package_name": "com.bjmstudio.penyejukhatipalingmerdu"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "886932085541-f4b8fg5ec26meg4elc46fhrnt7pd1kup.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBBJ6vFQPqnbEhz8AREz7e-CXUi5lMy4xw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "886932085541-f4b8fg5ec26meg4elc46fhrnt7pd1kup.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
